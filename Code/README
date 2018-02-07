@@ -1,0 +1,4 @@
+Hello , 
+
+This code is written for the initial build board to test the basic control of the servos that lateral control the plane. 
+The sensors was not built into the board yet, so code for sensors data input was not setup yet in the code for data analysis and automatication of the plane control.
